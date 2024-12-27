@@ -161,7 +161,7 @@ This Project focuses on **predicting the amount of rainfall in Galle, Sri Lanka*
 ## 🌍 Let's Connect!
 
 - 📧 **Email:** [govinduthejana@gmail.com](mailto:govinduthejana@gmail.com)
-- 💼 **LinkedIn:** [Govindu Thejan](https://linkedin.com/in/yourprofile)
+- 💼 **LinkedIn:** [Govindu-Thejana](https://www.linkedin.com/in/govindu-thejana/)
 
 
 
