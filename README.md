@@ -1,6 +1,6 @@
-# Hi 👋, I'm Govindu Thejana
+## Hi 👋, I'm Govindu Thejana
 
-A passionate Computer Engineering undergraduate with a strong interest in AI/ML, DevOps, full-stack development, and creating impactful software solutions. I believe in building innovative technologies that make life easier and drive real-world change. 🚀
+A passionate **Computer Engineering undergraduate** with a strong interest in **AI/ML**, **DevOps**, **full-stack development**, and creating **impactful software solutions**. I believe in building innovative technologies that make life easier and drive real-world change. 🚀
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindu-thejana&label=Profile%20views&color=0e75b6&style=flat" alt="govindu-thejana" /> </p>
