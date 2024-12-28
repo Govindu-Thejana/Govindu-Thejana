@@ -1,4 +1,4 @@
-## Hi 👋, I'm Govindu Thejana
+<h1> Hi 👋, I'm Govindu Thejana</h1>
 
 A passionate **Computer Engineering undergraduate** with a strong interest in **AI/ML**, **DevOps**, **full-stack development**, and creating **impactful software solutions**. I believe in building innovative technologies that make life easier and drive real-world change. 🚀
 
