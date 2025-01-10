@@ -1,21 +1,53 @@
+<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
 <h1 align="center">Hi 👋, I'm Govindu Thejana</h1>
+<h3 align="center">A Passionate Computer Engineering Undergraduate</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=govindu-thejana&label=Profile%20views&color=0e75b6&style=flat" alt="govindu-thejana" />
+</p>
 
-A passionate **Computer Engineering undergraduate** with a strong interest in **AI/ML**, **DevOps**, **full-stack development**, and creating **impactful software solutions**. I believe in building innovative technologies that make life easier and drive real-world change. 🚀
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **AI/ML** & **DevOps**
 
+- 🧑‍🎓 I’m an Undergraduate at **University of Ruhuna**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=govindu-thejana&label=Profile%20views&color=0e75b6&style=flat" alt="govindu-thejana" /> </p>
+- 💬 Ask me about **C++**
 
-## 🌟 About Me
+- 📫 How to reach me **govinduthejana@gmail.com**
 
-- 🎓 **Undergraduate:** Pursuing a degree in **Computer Engineering**, specializing in **full-stack development**, **DevOps**, **AI**, and **creative problem-solving**.
-- 💡 **Believer in:** Hands-on learning, staying curious, and building software that creates real-world impact.
-- 🌱 **Currently Exploring:** **DevOps**, **AI-driven technologies**, **Cloud Computing**, and **open-source contributions**.
-- 🎯 **Goal:** Contribute to meaningful open-source projects and build software products that improve the way we work, live, and interact.
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</td>
+</tr>
+</table>
+
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=govindu-thejana&theme=dark&show_icons=true&count_private=true" alt="Govindu Thejana's GitHub Stats" />
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Govindu Thejana's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=govindu-thejana&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=govindu-thejana&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/govindu-thejana" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Govindu Thejana on LinkedIn" height="50" width="50" /></a>
+<a href="https://www.facebook.com/govindu.thejan.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Govindu Thejana on Facebook" height="50" width="50" /></a>
+<a href="https://www.instagram.com/govindu_thejana/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Govindu Thejana on Instagram" height="50" width="50" /></a>
+</p>
 
 ## 🛠️ Technical Skills
 
-<p align="left">
-  <!-- Programming Languages -->
+<p align="center">
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
@@ -31,7 +63,6 @@ A passionate **Computer Engineering undergraduate** with a strong interest in **
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
   </a>
-  <!-- Web Development -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   </a>
@@ -44,23 +75,21 @@ A passionate **Computer Engineering undergraduate** with a strong interest in **
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-  <!-- Frameworks and Libraries -->
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-</a>
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
-</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
   <a href="https://www.flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-</a>
-  <!-- Databases -->
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
@@ -70,7 +99,6 @@ A passionate **Computer Engineering undergraduate** with a strong interest in **
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
-  <!-- Tools -->
   <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -83,7 +111,6 @@ A passionate **Computer Engineering undergraduate** with a strong interest in **
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
-  <!-- Design Tools -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
@@ -93,90 +120,29 @@ A passionate **Computer Engineering undergraduate** with a strong interest in **
 
 ### 🎙️ [AI Podcast Platform](https://aipodcastr.vercel.app/)
 
-Your one-stop **AI-powered podcast creation and discovery platform**! Dive into the future of audio content with advanced **AI-driven tools** that simplify podcast creation, enhance user experience, and enable seamless listening.
+An **AI-powered podcast creation and discovery platform**.
 
-#### 🛠️ **Tech Stack**
-
-- **Frontend:** Next.js, TypeScript, Tailwind CSS
-- **Backend:** Convex
-- **AI Services:** OpenAI (Text-to-Audio Conversion, Image Generation)
-- **Authentication:** Clerk
-- **UI Framework:** ShadCN
-
-#### ✨ **Highlights**
-
-- 🔐 **Secure Authentication**: Smooth and reliable user login and sign-up experience powered by Clerk.
-- 🗣️ **AI Podcast Creation**: Effortlessly create podcasts with **multi-voice AI text-to-audio conversion** and **custom-generated thumbnails**.
-- 🌟 **Modern Home Page**: Explore trending podcasts with a sticky podcast player for continuous listening.
-- 🔍 **Podcast Discovery & Search**: Find your favorite podcasts or discover new ones with intuitive search functionality.
-- 👤 **Personalized Profiles**: Manage all your created podcasts in one place with the option to delete or edit them.
-- 🎧 **Enhanced Podcast Player**: Includes playback controls, mute/unmute, and a seamless user experience.
-- 💻 **Fully Responsive Design**: Built to look stunning and perform flawlessly on all devices.
-
-#### 🌐 **Explore Now**
-
-Check out here [AIPodcastr](https://aipodcastr.vercel.app/) or dive into the [Code Repository](https://github.com/Govindu-Thejana/aipodcaster).
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Convex, OpenAI, Clerk
+- **[Explore Now](https://aipodcastr.vercel.app/)** | **[Code Repository](https://github.com/govindu-thejana/aipodcaster)**
 
 ### 🏨 [Hotel-Website](https://suneragirahotel.vercel.app/)
 
-A **modern**, **responsive hotel booking platform** offering a seamless user experience for browsing hotel rooms, checking availability, and making reservations with ease. Designed to provide an intuitive and dynamic experience for users and hotel owners alike.
+A **modern, responsive hotel booking platform**.
 
-#### 🛠️ **Tech Stack**
+- **Tech Stack:** React, Express.js, Node.js, MongoDB
+- **[Live Project](https://suneragirahotel.vercel.app/)** | **[Code Repository](https://github.com/govindu-thejana/Hotel-Website)**
 
-- **Frontend:** React
-- **Backend:** Express.js, Node.js
-- **Database:** MongoDB
-- **Hosting:** Vercel
+### 📱 [ChatApp](https://github.com/govindu-thejana/chat_app)
 
-#### ✨ **Highlights**
-
-- 🖥️ **Responsive Design**: Fully functional across desktop, tablet, and mobile devices, ensuring a great experience on all screen sizes.
-- 🏨 **Hotel Room Listings**: Browse rooms with detailed descriptions, images, and booking options.
-- 💳 **Simple Reservation System**: Users can easily check availability, make reservations, and view booking details.
-- 🔒 **Secure Payments**: Integrated payment processing (e.g., Stripe) for a safe and secure checkout experience.
-- 🧑‍💼 **Admin Panel**: Provides hotel managers with the ability to manage bookings, update room details, and track customer information.
-
-#### 🌐 **Explore Now**
-
-Check out the [Live Project](https://suneragirahotel.vercel.app/) or dive into the [Code Repository](https://github.com/Govindu-Thejana/Hotel-Website).
-
-
-### 📱 [ChatApp](https://github.com/YourUsername/chatapp)
-
-A **real-time chat application** designed for **instant messaging** with features like custom message models and intuitive UX.
+A **real-time chat application**.
 
 - **Tech Stack:** Flutter, Firebase
-- **[View Source](https://github.com/Govindu-Thejana/chat_app)**
+- **[View Source](https://github.com/govindu-thejana/chat_app)**
 
-### Machine Learning Project 📊
+### 📊 Machine Learning Project
 
-This Project focuses on **predicting the amount of rainfall in Galle, Sri Lanka**, using historical weather data from January 1, 2010, to January 1, 2023. By training models on past weather patterns, we aim to forecast future rainfall, which will be invaluable for **water resource management**, **agricultural planning**, and **emergency preparedness** related to weather events.
+**Predicting the amount of rainfall in Galle, Sri Lanka** using historical weather data.
 
 - **Tech Stack:** Python, Pandas, NumPy, Matplotlib
 - **[View Source](https://colab.research.google.com/drive/16IOgCECnv-Uc1nKmKWNj_KX9xJ8lCork#scrollTo=RVEzMpL_jwu2) in Google Colab**
 
-
-## 🌍 Let's Connect!
-
-- 📧 **Email:** [govinduthejana@gmail.com](mailto:govinduthejana@gmail.com)
-- 💼 **LinkedIn:** [Govindu-Thejana](https://www.linkedin.com/in/govindu-thejana/)
-
-
-
-<!-- ## 🏆 Achievements
-
-- 🥇 **Winner:** XYZ Hackathon 2023
-- 🌟 **Open-Source Contributor:** PRs merged in notable repositories
-- 📝 **Published Blogs:** [Your Blog](https://yourblog.com)
-
---- -->
-
-## 📊 GitHub Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=govindu-thejana" alt="govindu-thejana" /></a> </p>
-
-<!-- ![Govindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=govindu-thejana&show_icons=true&theme=radical)   -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Govindu-Thejana&layout=compact&theme=radical)
-
-
-🌟 "Code is like humor. When you have to explain it, it’s bad." - Cory House
-- I believe that well-written code should be intuitive and self-explanatory, just like a good joke.
