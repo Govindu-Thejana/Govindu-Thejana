@@ -7,10 +7,10 @@ A passionate **Computer Engineering undergraduate** with a strong interest in **
 
 ## 🌟 About Me
 
-- 🎓 **Undergraduate:** Pursuing a degree in **Computer Engineering**, specializing in **full-stack development**, **dev-ops**, **AI**, and **creative problem-solving**.
+- 🎓 **Undergraduate:** Pursuing a degree in **Computer Engineering**, specializing in **full-stack development**, **DevOps**, **AI**, and **creative problem-solving**.
 - 💡 **Believer in:** Hands-on learning, staying curious, and building software that creates real-world impact.
 - 🌱 **Currently Exploring:** **DevOps**, **AI-driven technologies**, **Cloud Computing**, and **open-source contributions**.
-- 🎯 **Goal:** Contribute to meaningful open-source projects and build software products that improves the way we work, live, and interact.
+- 🎯 **Goal:** Contribute to meaningful open-source projects and build software products that improve the way we work, live, and interact.
 
 ## 🛠️ Technical Skills
 
