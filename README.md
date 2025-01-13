@@ -22,7 +22,7 @@
 
 ✔ Call me: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently learning ***AI/ML*** & ***DevOps*** by doing online courses and small projects🥰<br>
-✔ I’m looking to collaborate with any **organization that would like to hire a passionate software engineer intern**<br>
+✔ I’m looking to collaborate with any **organization that would like to hire a passionate software engineer intern**<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <br>
 ✔ Ask me anything you want; if I am alive, I will answer within seconds 😉<br>
 ✔ Fun fact: *I always try to learn something new and then sleep till it stores in my brain* 😎<br>
 📫 How to reach me: **govinduthejana@gmail.com**
