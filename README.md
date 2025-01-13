@@ -1,50 +1,42 @@
-<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
-<h1 align="center">Hi 👋, I'm Govindu Thejana</h1>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Govindu Thejana</h1>
 <h3 align="center">A Passionate Computer Engineering Undergraduate</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=govindu-thejana&label=Profile%20views&color=0e75b6&style=flat" alt="govindu-thejana" />
 </p>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **AI/ML** & **DevOps**
-
-- 🧑‍🎓 I’m an Undergraduate at **University of Ruhuna**
-
-- 💬 Ask me about **C++**
-
-- 📫 How to reach me **govinduthejana@gmail.com**
-
-</td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
-</tr>
-</table>
-
-<h3 align="center">My Statistics:</h3>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Govindu Thejana's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=govindu-thejana&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=govindu-thejana&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
-</td>
-</tr>
-</table>
+  <em>
+    Hello, I am Govindu Thejana, a <b>3rd year</b> undergraduate from <a href="https://ruh.ac.lk/"><b>University Of Ruhuna</b>, Sri Lanka</a>. <br>
+    I am <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and I'm seeking an internship&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp; to gain hands-on experience and contribute to real-world projects.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<h3 align="center">Connect with me:</h3>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+✔ Call me: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently learning ***AI/ML*** & ***DevOps*** by doing online courses and small projects🥰<br>
+✔ I’m looking to collaborate with any **organization that would like to hire a passionate software engineer intern**<br>
+✔ Ask me anything you want; if I am alive, I will answer within seconds 😉<br>
+✔ Fun fact: *I always try to learn something new and then sleep till it stores in my brain* 😎<br>
+📫 How to reach me: **govinduthejana@gmail.com**
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="30px" alt="Connect"/>&nbsp;Connect with me:
+</h3>
 <p align="center">
-<a href="https://linkedin.com/in/govindu-thejana" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Govindu Thejana on LinkedIn" height="50" width="50" /></a>
-<a href="https://www.facebook.com/govindu.thejan.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Govindu Thejana on Facebook" height="50" width="50" /></a>
-<a href="https://www.instagram.com/govindu_thejana/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Govindu Thejana on Instagram" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/govindu-thejana" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Govindu Thejana on LinkedIn" height="50" width="50" /></a>
+<a href="https://www.facebook.com/govindu.thejan.3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Govindu Thejana on Facebook" height="50" width="50" /></a>
+<a href="https://www.instagram.com/govindu_thejana/" target="_blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Govindu Thejana on Instagram" height="50" width="50" /></a>
 </p>
 
-## 🛠️ Technical Skills
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Technical Skills ...***
 
 <p align="center">
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
@@ -115,6 +107,21 @@
   </a>
 </p>
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<strong>Git Activeness</strong>
+</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=govindu-thejana&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+    </td>
+    <td align="center" width="50%">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Govindu Thejana's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=govindu-thejana&theme=dark&hide_border=false" /> 
+    </td>
+  </tr>
+</table>
+
 ## 🚀 Featured Projects
 
 ### 🎙️ [AI Podcast Platform](https://aipodcastr.vercel.app/)
@@ -144,4 +151,3 @@ A **real-time chat application**.
 
 - **Tech Stack:** Python, Pandas, NumPy, Matplotlib
 - **[View Source](https://colab.research.google.com/drive/16IOgCECnv-Uc1nKmKWNj_KX9xJ8lCork#scrollTo=RVEzMpL_jwu2) in Google Colab**
-
