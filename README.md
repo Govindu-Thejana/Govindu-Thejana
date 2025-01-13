@@ -2,15 +2,16 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Govindu Thejana</h1>
-<h3 align="center">A Passionate Computer Engineering Undergraduate</h3>
+<h3 align="center">A Passionate Computer Engineering Undergraduate<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=govindu-thejana&label=Profile%20views&color=0e75b6&style=flat" alt="govindu-thejana" />
 </p>
 
 <p align="center">
   <em>
-    Hello, I am Govindu Thejana, a <b>3rd year</b> undergraduate from <a href="https://ruh.ac.lk/"><b>University Of Ruhuna</b>, Sri Lanka</a>. <br>
-    I am <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and <b>I'm seeking an internship</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp; to gain hands-on experience and contribute to real-world projects.
+    I'm a <b>3rd year</b> undergraduate from <a href="https://www.eng.ruh.ac.lk/"><b>Faculty of Engineering, University Of Ruhuna</b>, Sri Lanka</a>. <br>
+    <b>I'm seeking an internship</b>&nbsp;
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp; to gain hands-on experience and contribute to real-world projects.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
