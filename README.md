@@ -10,7 +10,7 @@
 <p align="center">
   <em>
     Hello, I am Govindu Thejana, a <b>3rd year</b> undergraduate from <a href="https://ruh.ac.lk/"><b>University Of Ruhuna</b>, Sri Lanka</a>. <br>
-    I am <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and I'm seeking an internship&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp; to gain hands-on experience and contribute to real-world projects.
+    I am <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and <b>I'm seeking an internship</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp; to gain hands-on experience and contribute to real-world projects.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
