@@ -126,34 +126,3 @@
   <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" alt="Trophies"/>&nbsp;<strong>Git profile Trophies</strong>
 </h2>
 <br><img src="https://github-profile-trophy.vercel.app/?username=govindu-thejana&theme=juicyfresh&no-bg=true" />
-
-
-## 🚀 Featured Projects
-
-### 🎙️ [AI Podcast Platform](https://aipodcastr.vercel.app/)
-
-An **AI-powered podcast creation and discovery platform**.
-
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Convex, OpenAI, Clerk
-- **[Explore Now](https://aipodcastr.vercel.app/)** | **[Code Repository](https://github.com/govindu-thejana/aipodcaster)**
-
-### 🏨 [Hotel-Website](https://suneragirahotel.vercel.app/)
-
-A **modern, responsive hotel booking platform**.
-
-- **Tech Stack:** React, Express.js, Node.js, MongoDB
-- **[Live Project](https://suneragirahotel.vercel.app/)** | **[Code Repository](https://github.com/govindu-thejana/Hotel-Website)**
-
-### 📱 [ChatApp](https://github.com/govindu-thejana/chat_app)
-
-A **real-time chat application**.
-
-- **Tech Stack:** Flutter, Firebase
-- **[View Source](https://github.com/govindu-thejana/chat_app)**
-
-### 📊 Machine Learning Project
-
-**Predicting the amount of rainfall in Galle, Sri Lanka** using historical weather data.
-
-- **Tech Stack:** Python, Pandas, NumPy, Matplotlib
-- **[View Source](https://colab.research.google.com/drive/16IOgCECnv-Uc1nKmKWNj_KX9xJ8lCork#scrollTo=RVEzMpL_jwu2) in Google Colab**
