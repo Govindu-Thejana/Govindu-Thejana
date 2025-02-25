@@ -27,6 +27,11 @@
 ✔ Fun fact: *I always try to learn something new and then sleep till it stores in my brain* 😎<br>
 📫 How to reach me: **govinduthejana@gmail.com**
 
+<a href="https://buymeacoffee.com/govindu">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+</a>  
+
+
 <h3 align="center">
   <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="30px" alt="Connect"/>&nbsp;Connect with me:
 </h3>
