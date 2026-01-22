@@ -9,9 +9,7 @@
 
 <p align="center">
   <em>
-    I'm a <b>3rd year</b> undergraduate from <a href="https://www.eng.ruh.ac.lk/"><b>Faculty of Engineering, University Of Ruhuna</b>, Sri Lanka</a>. <br>
-    <b>I'm seeking an internship</b>&nbsp;
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp; to gain hands-on experience and contribute to real-world projects.
+    I'm a <b>final year</b> undergraduate from <a href="https://www.eng.ruh.ac.lk/"><b>Faculty of Engineering, University Of Ruhuna</b>, Sri Lanka</a>. <br>
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -22,7 +20,6 @@
 
 ✔ Call me: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently learning ***AI/ML*** & ***DevOps*** by doing online courses and small projects🥰<br>
-✔ I’m looking to collaborate with any **organization that would like to hire a passionate software engineer intern**<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <br>
 ✔ Ask me anything you want; if I am alive, I will answer within seconds 😉<br>
 ✔ Fun fact: *I always try to learn something new and then sleep till it stores in my brain* 😎<br>
 📫 How to reach me: **govinduthejana@gmail.com**
