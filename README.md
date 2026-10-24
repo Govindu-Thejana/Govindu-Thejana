@@ -2,7 +2,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Govindu Thejana</h1>
-<h3 align="center">A Passionate Computer Engineering Undergraduate<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> </h3>
+<h3 align="center">A Passionate Software Engineer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=govindu-thejana&label=Profile%20views&color=0e75b6&style=flat" alt="govindu-thejana" />
 </p>
