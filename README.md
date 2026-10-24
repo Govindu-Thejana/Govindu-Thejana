@@ -126,10 +126,9 @@
 <h2 align="center">
   <strong>Git Profile Trophies</strong>
 </h2>
-
 <p align="center">
   <img
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=govindu-thejana&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=10"
+    src="https://github-profile-trophy.vercel.app/?username=govindu-thejana&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=10"
     alt="GitHub Profile Trophies"
   />
 </p>
