@@ -123,10 +123,7 @@
   </tr>
 </table>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" alt="Trophies">
-  <strong>Git Profile Trophies</strong>
-</h2>
+<h2 align="center">Git Profile Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=govindu-thejana&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Profile Trophies">
